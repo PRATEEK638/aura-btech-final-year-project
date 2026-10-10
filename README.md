@@ -11,7 +11,19 @@ A final-year exploration of voice-driven desktop assistance.
 
 ## Project overview
 
-Aura BTech final year project.
+Aura / LUNA is a team B.Tech CSE (AI/ML) final-year project exploring natural-language laptop automation. Phase 2 brings together file, browser and application automation experiments with an interface that exposes planning, action progress and verification. The presentation reports working MVP modules; integration into one stable runtime remains in progress.
+
+Team: Prateek Sharma, Dhruv Singh and Dhruv Saini, under Dr. Kushagra Agarwal. Supporting reference/prototype work is identified separately from the integrated team MVP.
+
+## Interface and Phase 2 evidence
+
+![Aura home interface](docs/assets/aura-home.png)
+
+![Aura conversation and task progress](docs/assets/aura-conversation.png)
+
+[Download the Phase 2 progress presentation](docs/Aura_Phase2_Progress_Presentation.pptx) · [Read the progress summary and prototype gallery](docs/PHASE2-PROGRESS.md)
+
+Screenshots document prototype interfaces; they are not a new runtime validation. The public presentation omits student roll numbers.
 
 ## Engineering highlights
 
